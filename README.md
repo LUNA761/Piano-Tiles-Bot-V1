@@ -1,5 +1,5 @@
 # Piano-Tiles-Bot-V1
-AUTO PIANO TILES V1.5 (by LUNA#6969 (discord) dm me for any help))
+AUTO PIANO TILES V1.5 (by LUNA#4616 (discord) dm me for any help))
 
 varibles:
 
